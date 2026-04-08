@@ -30,16 +30,16 @@ This project provides:
 ---
 
 ## 🧩 Game Rules
-♟️ You must place exactly N queens on an N×N chessboard
-🚫 No two queens can attack each other
+-♟️ You must place exactly N queens on an N×N chessboard
+-🚫 No two queens can attack each other
 A queen can attack in:
-Horizontal direction (row)
-Vertical direction (column)
-Diagonal directions (both left and right)
-🧠 Each row must contain exactly one queen
-🎯 Each column must contain exactly one queen
-⚡ Diagonal conflicts are not allowed
-🏆 The goal is to find a safe configuration of all N queens
+-Horizontal direction (row)
+-Vertical direction (column)
+-Diagonal directions (both left and right)
+-🧠 Each row must contain exactly one queen
+-🎯 Each column must contain exactly one queen
+-⚡ Diagonal conflicts are not allowed
+-🏆 The goal is to find a safe configuration of all N queens
 
 ## 🧠 Algorithms Used
 
