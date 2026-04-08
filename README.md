@@ -7,7 +7,6 @@ It allows users to manually play the puzzle or automatically solve it using back
 
 # view
 [![Screenshot-2026-04-08-194944.png](https://i.postimg.cc/zBZXrTpR/Screenshot-2026-04-08-194944.png)](https://postimg.cc/d76KRkbq)
-
 ## 🎯 Overview
 
 The N-Queens problem is a classic algorithmic challenge where N queens must be placed on an N×N chessboard such that no two queens attack each other.
