@@ -43,6 +43,16 @@ This project provides:
 - ⚡ Diagonal conflicts are not allowed
 - 🏆 The goal is to find a safe configuration of all N queens
 
+
+## 📊 Program Flow
+
+[![im1.png](https://i.postimg.cc/WtcjgVF9/im1.png)](https://postimg.cc/1VBL1LK6)
+---
+
+## 🔁 Function Architecture
+
+[![fun.png](https://i.postimg.cc/7ZVGHsdt/fun.png)](https://postimg.cc/Yvvq83pQ)
+
 ## 🧠 Algorithms Used
 
 - Backtracking (Recursive DFS)
