@@ -5,8 +5,7 @@ It allows users to manually play the puzzle or automatically solve it using back
 
 ---
 
-<img src=https://www.researchgate.net/publication/362012663/figure/fig3/AS:1177948522577920@1657856221050/N-Queen-problem-explanation-with-8-queens-in-a-chessboard-of-88-On-the-left-is-a-valid.ppm height='300px' />
-
+<img src="https://www.researchgate.net/publication/362012663/figure/fig3/AS:1177948522577920@1657856221050/N-Queen-problem-explanation-with-8-queens-in-a-chessboard-of-88-On-the-left-is-a-valid.ppm" height="300px" />
 
 ## 🎯 Overview
 
