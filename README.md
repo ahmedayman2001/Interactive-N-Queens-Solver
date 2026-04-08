@@ -3,6 +3,7 @@
 An interactive console-based **N-Queens Puzzle Game and Solver** built using C++.  
 It allows users to manually play the puzzle or automatically solve it using backtracking with visualization.
 
+[![images.png](https://i.postimg.cc/RFmwqxhL/images.png)](https://postimg.cc/p90m17Dm)
 ---
 
 ## 🎯 Overview
