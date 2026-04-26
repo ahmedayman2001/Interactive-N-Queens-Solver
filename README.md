@@ -7,7 +7,7 @@ It allows users to manually play the puzzle or automatically solve it using back
 
 # view
 [![Screenshot-2026-04-08-194944.png](https://i.postimg.cc/zBZXrTpR/Screenshot-2026-04-08-194944.png)](https://postimg.cc/d76KRkbq)
-## 🎯 Overview
+##  Overview
 
 The N-Queens problem is a classic algorithmic challenge where N queens must be placed on an N×N chessboard such that no two queens attack each other.
 
@@ -19,32 +19,32 @@ This project provides:
 
 ---
 
-## 🎮 Features
+##  Features
 
-- 🧩 Interactive chessboard (console UI)
-- ✍️ Manual queen placement & removal
-- ⚡ Real-time move validation
-- 🤖 Automatic solver (Backtracking)
-- 🎬 Animated solution visualization
-- 📊 Generate all possible solutions
-- 🏆 Win/Lose detection based on user input
+-  Interactive chessboard (console UI)
+-  Manual queen placement & removal
+-  Real-time move validation
+-  Automatic solver (Backtracking)
+-  Animated solution visualization
+-  Generate all possible solutions
+-  Win/Lose detection based on user input
 
 ---
 
-## 🧩 Game Rules
+##  Game Rules
 - ♟️ You must place exactly N queens on an N×N chessboard
 - 🚫 No two queens can attack each other
    A queen can attack in:
 - Horizontal direction (row)
 - Vertical direction (column)
 - Diagonal directions (both left and right)
-- 🧠 Each row must contain exactly one queen
-- 🎯 Each column must contain exactly one queen
-- ⚡ Diagonal conflicts are not allowed
-- 🏆 The goal is to find a safe configuration of all N queens
+-  Each row must contain exactly one queen
+-  Each column must contain exactly one queen
+-  Diagonal conflicts are not allowed
+-  The goal is to find a safe configuration of all N queens
 
 
-## 📊 Program Flow
+##  Program Flow
 
 [![im1.png](https://i.postimg.cc/WtcjgVF9/im1.png)](https://postimg.cc/1VBL1LK6)
 ---
@@ -53,7 +53,7 @@ This project provides:
 
 [![fun.png](https://i.postimg.cc/7ZVGHsdt/fun.png)](https://postimg.cc/Yvvq83pQ)
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 - Backtracking (Recursive DFS)
 - Constraint Checking
@@ -65,4 +65,4 @@ This project provides:
 
 ---
 
-## ⌨️ Commands (Interactive Mode)
+##  Commands (Interactive Mode)
