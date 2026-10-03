@@ -34,7 +34,7 @@ Q . . . . . . .
 
 ## 🎬 Demo Video
 
- **[Watch the full project demo](https://drive.google.com/file/d/1Eeko8X26oWFjJCcOsCvMo6k49uURGbgO/view?usp=drive_link)**
+▶️ **[Watch the full project demo](https://drive.google.com/file/d/1SvG6ANOCwqtG-vPYF8ch6C_Kqd8t-GzM/view?usp=sharing)**
 
 ---
 
